@@ -1,0 +1,29 @@
+/* 
+    Document   : main
+    Created on : 19 mars 2013, 11:29:02
+    Author     : Travail
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+#loginForm{
+    margin-top:19px;
+    background:none repeat scroll 0 0 #D9D9D9;
+  
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+#welcome-message{
+    color : #ccc;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:10px;
+}
+#searchbox{
+    height: 3.2em;
+}
