@@ -30,7 +30,7 @@
    
 
     <div class="container">
-
+        <p><%= request.getParameter("") %></p>
     </div><!-- /.container -->
     
     <footer>
