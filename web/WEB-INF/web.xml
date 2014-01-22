@@ -8,12 +8,4 @@
             <url-pattern>/principale</url-pattern>
         </servlet-mapping>
     </servlet>
-    <servlet>
-        <servlet-name>la_main_servlet</servlet-name>
-        <servlet-class>com.aolivieri.LBClocalisation.la_main_servlet</servlet-class>
-    </servlet>
-    <servlet-mapping>
-        <servlet-name>la_main_servlet</servlet-name>
-        <url-pattern>/la_main_servlet</url-pattern>
-    </servlet-mapping>
 </web-app>
